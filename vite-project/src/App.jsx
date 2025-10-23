@@ -21,11 +21,9 @@ function App() {
         <div className="dice">{dice2}</div>
       </div>
 
-      <button onClick={rollDice}>zeri at blleee</button>
+      <button onClick={rollDice}>zeri at</button>
     </div>
   );
 }
 
 export default App;
-
-
