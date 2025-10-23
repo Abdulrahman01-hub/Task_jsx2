@@ -1,6 +1,7 @@
 import React from 'react';
 import { pizzas } from './data';
 import './App.css';
+
 const PizzaList = () => {
     return (
         <div className="pizza-list">
